@@ -23,7 +23,7 @@
 
 整体数据推送链路：
 
-image.png
+![image](https://user-images.githubusercontent.com/52741017/126310479-f3fcc16c-43e2-4a5e-b53d-1985faf41ba6.png)
 
 1.脱敏后订单数据查询：
 平台提供订单推送服务、API等方式查询订单数据，升级后查询到的消费者敏感信息以脱敏+OAID的形式返回。
